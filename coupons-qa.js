@@ -49,8 +49,8 @@
             },
             "remove": {
                 "type": "js",
-                "js": "$('.discount-code-remove').click(); $('.qa-discount-code-show-form-btn').click();",
-                "timeout": 2000
+                "js": $('.discount-code-remove').click(); setTimeout(function() {$('.qa-discount-code-show-form-btn').click();}, 4000);",
+                "timeout": 6000
             },
             "scripts": {
                 "preprocess": "$('.discount-code-show-form-btn').click();"
