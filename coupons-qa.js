@@ -49,7 +49,7 @@
             },
             "remove": {
                 "type": "js",
-                "js": $('.discount-code-remove').click(); setTimeout(function() {$('.qa-discount-code-show-form-btn').click();}, 4000);",
+                "js": "$('.discount-code-remove').click(); setTimeout(function() {$('.qa-discount-code-show-form-btn').click();}, 4000);",
                 "timeout": 6000
             },
             "scripts": {
