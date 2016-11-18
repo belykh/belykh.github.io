@@ -1362,7 +1362,7 @@
                 "timeout": "3000"
             },
             "controls": {
-                "promo": "name=['promoCode']",
+                "promo": "#promoCode",
                 "total": ".total-row >span:eq(1)",
                 "orderTotal": ".total-row >span:last"
             },
