@@ -45,7 +45,6 @@
             },
             "controls": {
                 "promo": "input[name=discountCode]",
-                "total": ".order-subtotal-merchandise-value > span",
                 "orderTotal": ".order-subtotal-total-value > span"
             },
             "remove": {
