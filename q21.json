@@ -1,0 +1,968 @@
+[
+  {
+    "question": "You reach an intersection with stop signs on all four corners at the same time as the driver on your left. Who has the right-of-way?",
+    "options": [
+      {
+        "text": "The driver on your left has the right-of-way.",
+        "position": 1
+      },
+      {
+        "text": "You have the right-of-way.",
+        "position": 2
+      },
+      {
+        "text": "Whoever is signaling to make a turn has the right-of-way.",
+        "position": 3
+      }
+    ],
+    "correct": "You have the right-of-way.",
+    "correctPosition": 2,
+    "explanation": "If two vehicles arrive at the same time to an intersection that has stop signs on all corners, the vehicle to the right has the right-of-way.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "\"No zones\" are areas around trucks where cars:",
+    "options": [
+      {
+        "text": "Disappear into blind spots or are so close that they restrict the truck driver's ability to stop and maneuver safely.",
+        "position": 1
+      },
+      {
+        "text": "Have sufficient space to travel behind the truck.",
+        "position": 2
+      },
+      {
+        "text": "Have several car lengths between their vehicle and the truck.",
+        "position": 3
+      }
+    ],
+    "correct": "Disappear into blind spots or are so close that they restrict the truck driver's ability to stop and maneuver safely.",
+    "correctPosition": 1,
+    "explanation": "\"No zones\" are areas around trucks or buses in which cars disappear into the larger vehicle's blind spots. \"No zones\" can also be defined as areas in which cars are so close to the larger vehicle that they restrict the truck or bus driver’s ability to stop and maneuver safely. A car being in a \"No zone\" greatly increases the potential for a crash.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When approaching a person who is crossing the street while using a white cane or guide dog, you should:",
+    "options": [
+      {
+        "text": "Stop until the person is well away from your path of travel.",
+        "position": 1
+      },
+      {
+        "text": "Honk your horn as you proceed past them.",
+        "position": 2
+      },
+      {
+        "text": "Carefully drive around them.",
+        "position": 3
+      }
+    ],
+    "correct": "Stop until the person is well away from your path of travel.",
+    "correctPosition": 1,
+    "explanation": "When approaching a pedestrian who is using a white cane or guide dog while crossing the street, you must stop until the person is well away from your path of travel. Always yield the right-of-way to blind pedestrians. ",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When a car with bright headlights drives toward you at night, you should:",
+    "options": [
+      {
+        "text": "Stop until the other driver passes.",
+        "position": 1
+      },
+      {
+        "text": "Look below their headlights.",
+        "position": 2
+      },
+      {
+        "text": "Glance toward the right edge of your lane.",
+        "position": 3
+      }
+    ],
+    "correct": "Glance toward the right edge of your lane.",
+    "correctPosition": 3,
+    "explanation": "To avoid being blinded when driving at night, do not look directly at the headlights of oncoming cars. Instead, look toward the right edge of the road until the oncoming driver has passed.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "You are approaching a railroad crossing with no warning devices and are unable to see 400 feet down the tracks in one direction. The speed limit is:",
+    "options": [
+      {
+        "text": "15 mph.",
+        "position": 1
+      },
+      {
+        "text": "20 mph.",
+        "position": 2
+      },
+      {
+        "text": "25 mph.",
+        "position": 3
+      }
+    ],
+    "correct": "15 mph.",
+    "correctPosition": 1,
+    "explanation": "Within 100 feet of a railroad crossing where you cannot see 400 feet down the tracks in both directions, the speed limit is 15 mph. However, you may drive faster if the crossing is controlled by gates, a warning signal, or a flagger.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Construction zone signs are generally:",
+    "options": [
+      {
+        "text": "Square or rectangular with white and red coloring.",
+        "position": 1
+      },
+      {
+        "text": "Round or octagonal with black and yellow coloring.",
+        "position": 2
+      },
+      {
+        "text": "Diamond-shaped or rectangular with orange and black coloring.",
+        "position": 3
+      }
+    ],
+    "correct": "Diamond-shaped or rectangular with orange and black coloring.",
+    "correctPosition": 3,
+    "explanation": "All temporary signs in work zones have an orange background with black letters or symbols. These signs are found on the right side of the road, or on both the left and right sides if the roadway is a divided highway.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Driving more slowly than surrounding traffic is:",
+    "options": [
+      {
+        "text": "A good idea if the weather is bad.",
+        "position": 1
+      },
+      {
+        "text": "Appropriate if you don’t know the speed limit.",
+        "position": 2
+      },
+      {
+        "text": "Often a hazard because other drivers may become frustrated and try to pass you.",
+        "position": 3
+      }
+    ],
+    "correct": "Often a hazard because other drivers may become frustrated and try to pass you.",
+    "correctPosition": 3,
+    "explanation": "Driving more slowly than other traffic can be dangerous. Drivers behind you may become impatient and will be tempted to take dangerous risks to pass you.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Motorcycles, scooters, and mopeds are not easy to see; therefore, you should:",
+    "options": [
+      {
+        "text": "Slow down when driving.",
+        "position": 1
+      },
+      {
+        "text": "Make constant visual checks.",
+        "position": 2
+      },
+      {
+        "text": "Share a lane with a motorcycle.",
+        "position": 3
+      }
+    ],
+    "correct": "Make constant visual checks.",
+    "correctPosition": 2,
+    "explanation": "Motorcycles can be easily hidden in a vehicle’s blind spot or missed in a quick look due to their small size. Drivers of cars must always be alert and looking for motorcycles, mopeds, and scooters.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "If it is necessary to make an emergency stop while driving on an interstate, you should:",
+    "options": [
+      {
+        "text": "Sound your horn at passing cars to get their attention.",
+        "position": 1
+      },
+      {
+        "text": "Get out of your vehicle and flag down the first vehicle that passes.",
+        "position": 2
+      },
+      {
+        "text": "Pull off the road, turn on your emergency flashers, and stay in your vehicle, if you can.",
+        "position": 3
+      }
+    ],
+    "correct": "Pull off the road, turn on your emergency flashers, and stay in your vehicle, if you can.",
+    "correctPosition": 3,
+    "explanation": "If you must stop on the shoulder of the interstate or highway, turn on your emergency flashers to warn other drivers and stay inside your vehicle, if you can. The extremely high speed of traffic makes standing or walking along an interstate highway very dangerous.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This sign means:",
+    "options": [
+      {
+        "text": "Four-lane traffic ahead.",
+        "position": 1
+      },
+      {
+        "text": "Divided highway ahead.",
+        "position": 2
+      },
+      {
+        "text": "Two-way traffic ahead.",
+        "position": 3
+      }
+    ],
+    "correct": "Two-way traffic ahead.",
+    "correctPosition": 3,
+    "explanation": "Warning signs are usually yellow with black markings. They alert you to conditions that are immediately ahead. This sign warns that you are leaving a separated one-way highway and will soon be driving on a two-way highway.",
+    "image": "https://www.dmv-written-test.com/images-car/california-two_way_traffic.png"
+  },
+  {
+    "question": "You are driving in the far right lane of a four-lane freeway and notice thick broken white lines on the left side of your lane. You are driving in:",
+    "options": [
+      {
+        "text": "The carpool lane and must merge into the next lane.",
+        "position": 1
+      },
+      {
+        "text": "A special lane for slow-moving vehicles.",
+        "position": 2
+      },
+      {
+        "text": "An exit lane.",
+        "position": 3
+      }
+    ],
+    "correct": "An exit lane.",
+    "correctPosition": 3,
+    "explanation": "Freeway lanes that are ending will usually be marked by large broken lines painted on the pavement. If you are driving in a lane marked with these broken lines, be prepared to exit the freeway or for the lane to end.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "An orange-colored sign like this means:",
+    "options": [
+      {
+        "text": "There is roadwork ahead.",
+        "position": 1
+      },
+      {
+        "text": "You must change lanes ahead.",
+        "position": 2
+      },
+      {
+        "text": "There is a detour ahead.",
+        "position": 3
+      }
+    ],
+    "correct": "There is roadwork ahead.",
+    "correctPosition": 1,
+    "explanation": "Orange-colored signs indicate construction areas. Proceed with caution.",
+    "image": "https://www.dmv-written-test.com/images-car/california-shoulder_work_ahead.png"
+  },
+  {
+    "question": "When driving on a slippery surface, such as snow or ice:",
+    "options": [
+      {
+        "text": "Shift to a low gear before going down steep hills.",
+        "position": 1
+      },
+      {
+        "text": "Maintain traction by following other vehicles closely.",
+        "position": 2
+      },
+      {
+        "text": "Pump your brakes to keep them from freezing.",
+        "position": 3
+      }
+    ],
+    "correct": "Shift to a low gear before going down steep hills.",
+    "correctPosition": 1,
+    "explanation": "To prevent skidding on slippery surfaces, you should shift to a low gear before going down a steep hill. You should also follow farther behind the vehicle in front of you than you normally would. Quick stops should be avoided. Unless you have antilock brakes, pump the brakes to slow or stop.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Large trucks turning onto a street with two lanes in each direction:",
+    "options": [
+      {
+        "text": "May complete the turn in either of the two lanes.",
+        "position": 1
+      },
+      {
+        "text": "Often have to use the left lane to complete the turn.",
+        "position": 2
+      },
+      {
+        "text": "Must stay in the right lane at all times while turning.",
+        "position": 3
+      }
+    ],
+    "correct": "Often have to use the left lane to complete the turn.",
+    "correctPosition": 2,
+    "explanation": "Large trucks must often swing wide to complete a right turn. A truck making a right turn may initially appear to be turning left because of the need to swing wide. When behind a turning truck, you should pay attention to the truck's turn signal to be aware of which way the trucker actually intends to turn.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Unless otherwise posted, the speed limit in a residential area is:",
+    "options": [
+      {
+        "text": "20 mph.",
+        "position": 1
+      },
+      {
+        "text": "25 mph.",
+        "position": 2
+      },
+      {
+        "text": "30 mph.",
+        "position": 3
+      }
+    ],
+    "correct": "25 mph.",
+    "correctPosition": 2,
+    "explanation": "Unless otherwise posted, the speed limit in business and residential districts is 25 mph.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "What does a traffic signal with a yellow left arrow indicate?",
+    "options": [
+      {
+        "text": "Drivers should prepare to yield to oncoming traffic.",
+        "position": 1
+      },
+      {
+        "text": "The protected left turn is about to end.",
+        "position": 2
+      },
+      {
+        "text": "Both of the above.",
+        "position": 3
+      }
+    ],
+    "correct": "Both of the above.",
+    "correctPosition": 3,
+    "explanation": "When a protected turn arrow changes from green to yellow, drivers must prepare to yield to oncoming traffic. A yellow arrow indicates that the protected left turn is ending.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When a school bus is picking up or dropping off children, you must:",
+    "options": [
+      {
+        "text": "Stop, regardless of your direction of travel.",
+        "position": 1
+      },
+      {
+        "text": "Stop if you are driving in the same direction.",
+        "position": 2
+      },
+      {
+        "text": "Slow down and be prepared to stop.",
+        "position": 3
+      }
+    ],
+    "correct": "Stop, regardless of your direction of travel.",
+    "correctPosition": 1,
+    "explanation": "When approaching a school bus that is picking up or dropping off passengers, you must come to a complete stop before reaching the bus, regardless of your direction of travel.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "You should signal at least how many feet before you turn?",
+    "options": [
+      {
+        "text": "50",
+        "position": 1
+      },
+      {
+        "text": "75",
+        "position": 2
+      },
+      {
+        "text": "100",
+        "position": 3
+      }
+    ],
+    "correct": "100",
+    "correctPosition": 3,
+    "explanation": "You should signal at least 100 feet before you turn, before every lane change, at least five seconds before you change lanes on a freeway, before pulling next to the curb or away from the curb, even when you do not see other vehicles around you, and when you are almost through the intersection if you plan to turn shortly after crossing the intersection. Remember to turn off your signal when you no longer need it.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "You must show proof of insurance to law enforcement:",
+    "options": [
+      {
+        "text": "Only if you are involved in a collision.",
+        "position": 1
+      },
+      {
+        "text": "If you are involved in a collision or stopped for a citation.",
+        "position": 2
+      },
+      {
+        "text": "Only if you are stopped and cited.",
+        "position": 3
+      }
+    ],
+    "correct": "If you are involved in a collision or stopped for a citation.",
+    "correctPosition": 2,
+    "explanation": "You must have evidence of financial responsibility, such as proof of insurance, with you whenever you drive. You must always show proof of insurance and your license to an officer upon request after a traffic stop or collision.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Excessive speed:",
+    "options": [
+      {
+        "text": "Saves time so you can get to your destination more quickly.",
+        "position": 1
+      },
+      {
+        "text": "Helps you maneuver around obstacles.",
+        "position": 2
+      },
+      {
+        "text": "Increases the likelihood of serious bodily injury and death.",
+        "position": 3
+      }
+    ],
+    "correct": "Increases the likelihood of serious bodily injury and death.",
+    "correctPosition": 3,
+    "explanation": "Excessive speed is one of the most common contributing factors to vehicle crashes. Excessive speed does not save time and often leads to high-risk decision-making.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This sign indicates:",
+    "options": [
+      {
+        "text": "The distance from road surface to a bridge or overpass.",
+        "position": 1
+      },
+      {
+        "text": "The maximum legal height of a vehicle allowed in this state.",
+        "position": 2
+      },
+      {
+        "text": "The maximum width of a vehicle allowed on the highway.",
+        "position": 3
+      }
+    ],
+    "correct": "The distance from road surface to a bridge or overpass.",
+    "correctPosition": 1,
+    "explanation": "This is a low clearance warning sign. It indicates the distance from the road surface to the bottom of a bridge or overpass (in this case, 12 feet, 6 inches).",
+    "image": "https://www.dmv-written-test.com/images-car/tennessee-low_clearance.png"
+  },
+  {
+    "question": "You must file a report of a traffic accident occurring in California when:",
+    "options": [
+      {
+        "text": "Your vehicle fails a smog test.",
+        "position": 1
+      },
+      {
+        "text": "You are involved in a collision and there is an injury.",
+        "position": 2
+      },
+      {
+        "text": "You change your insurance company.",
+        "position": 3
+      }
+    ],
+    "correct": "You are involved in a collision and there is an injury.",
+    "correctPosition": 2,
+    "explanation": "When you have a collision, report it to DMV within 10 days if anyone was injured (no matter how slightly) or killed. You or your representative must make this report whether or not you caused the collision, even if the collision occurred on private property.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Any amount of alcohol in the blood may affect a driver's:",
+    "options": [
+      {
+        "text": "Right-of-way privileges.",
+        "position": 1
+      },
+      {
+        "text": "Judgment and physical coordination.",
+        "position": 2
+      },
+      {
+        "text": "Knowledge.",
+        "position": 3
+      }
+    ],
+    "correct": "Judgment and physical coordination.",
+    "correctPosition": 2,
+    "explanation": "A driver’s ability to safely operate a vehicle may be impaired at any BAC level, even a level lower than the legal limit. Any amount of alcohol can affect one’s judgment and physical coordination. Driving under the influence of even a small amount of alcohol can lead to criminal charges.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This sign means:",
+    "options": [
+      {
+        "text": "Stop Sign Ahead.",
+        "position": 1
+      },
+      {
+        "text": "Side Road.",
+        "position": 2
+      },
+      {
+        "text": "Railroad Warning.",
+        "position": 3
+      }
+    ],
+    "correct": "Stop Sign Ahead.",
+    "correctPosition": 1,
+    "explanation": "This sign indicates that a stop sign is ahead.",
+    "image": "https://www.dmv-written-test.com/images-car/illinois-stop_ahead.png"
+  },
+  {
+    "question": "This sign means:",
+    "options": [
+      {
+        "text": "One-way traffic.",
+        "position": 1
+      },
+      {
+        "text": "Intersection ahead.",
+        "position": 2
+      },
+      {
+        "text": "Merging traffic from the right.",
+        "position": 3
+      }
+    ],
+    "correct": "Merging traffic from the right.",
+    "correctPosition": 3,
+    "explanation": "Warning signs are usually yellow with black markings. They alert you to conditions that are immediately ahead. This sign tells drivers to prepare to allow traffic to safely merge from the right.",
+    "image": "https://www.dmv-written-test.com/images-car/alabama-merging_traffic_from_right.png"
+  },
+  {
+    "question": "When driving in a construction zone:",
+    "options": [
+      {
+        "text": "Slightly increase your speed.",
+        "position": 1
+      },
+      {
+        "text": "Expect the unexpected.",
+        "position": 2
+      },
+      {
+        "text": "Expect construction workers to yield to motorists.",
+        "position": 3
+      }
+    ],
+    "correct": "Expect the unexpected.",
+    "correctPosition": 2,
+    "explanation": "You may encounter unexpected conditions in a construction zone. For the safety of yourself, other drivers, and construction workers, drive with extraordinary caution.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "If you hit an animal with your vehicle while driving on a California highway, you should:",
+    "options": [
+      {
+        "text": "Move the injured animal off the road.",
+        "position": 1
+      },
+      {
+        "text": "Call the humane society.",
+        "position": 2
+      },
+      {
+        "text": "Continue driving.",
+        "position": 3
+      }
+    ],
+    "correct": "Call the humane society.",
+    "correctPosition": 2,
+    "explanation": "If you injure or kill an animal on the roadway, you should call CHP, the nearest humane society, or the police. You should not leave the animal to die or try to move the animal.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "In which of the following scenarios should your wheels not be pointed straight ahead?",
+    "options": [
+      {
+        "text": "When waiting to make a left turn at a traffic light.",
+        "position": 1
+      },
+      {
+        "text": "When parked on a hill or sloping driveway.",
+        "position": 2
+      },
+      {
+        "text": "When parked on the side of a level roadway where there is no curb.",
+        "position": 3
+      }
+    ],
+    "correct": "When parked on a hill or sloping driveway.",
+    "correctPosition": 2,
+    "explanation": "While waiting to turn left, keep your wheels pointed straight ahead until it is safe to start your turn. If a vehicle hits you from behind, this will prevent you from veering into oncoming traffic. When parked facing either uphill or downhill, turn the wheels so the vehicle will not roll into traffic if the brakes fail.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "The maximum posted speed limit should be driven only:",
+    "options": [
+      {
+        "text": "During the night.",
+        "position": 1
+      },
+      {
+        "text": "During the day.",
+        "position": 2
+      },
+      {
+        "text": "Under ideal conditions.",
+        "position": 3
+      }
+    ],
+    "correct": "Under ideal conditions.",
+    "correctPosition": 3,
+    "explanation": "The posted maximum speed limit is the fastest legal speed you can travel on a road under ideal conditions. It is safest to drive at the same speed as surrounding traffic, up to the maximum speed limit. Maintaining a safe speed at all times is a responsibility shared by all motorists.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Regulatory signs are:",
+    "options": [
+      {
+        "text": "Green.",
+        "position": 1
+      },
+      {
+        "text": "Yellow.",
+        "position": 2
+      },
+      {
+        "text": "White.",
+        "position": 3
+      }
+    ],
+    "correct": "White.",
+    "correctPosition": 3,
+    "explanation": "Regulatory signs inform drivers of specific laws that must be obeyed. Displayed laws may be about traffic direction, lane use, turning, speed, parking, or special situations. Regulatory signs are commonly white squares or rectangles with black, red, or green letters or symbols.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This sign means:",
+    "options": [
+      {
+        "text": "No right turn.",
+        "position": 1
+      },
+      {
+        "text": "Stop sign ahead.",
+        "position": 2
+      },
+      {
+        "text": "Divided highway.",
+        "position": 3
+      }
+    ],
+    "correct": "No right turn.",
+    "correctPosition": 1,
+    "explanation": "This sign indicates that turns in the direction of the arrow (in this case, to the right) are prohibited.",
+    "image": "https://www.dmv-written-test.com/images-car/illinois-no_right_turn.png"
+  },
+  {
+    "question": "This sign means:",
+    "options": [
+      {
+        "text": "Slow down; curving road ahead.",
+        "position": 1
+      },
+      {
+        "text": "Slow down and do not use your brakes.",
+        "position": 2
+      },
+      {
+        "text": "Slow down; slippery when wet.",
+        "position": 3
+      }
+    ],
+    "correct": "Slow down; slippery when wet.",
+    "correctPosition": 3,
+    "explanation": "This sign warns that the road ahead becomes slippery when wet.",
+    "image": "https://www.dmv-written-test.com/images-car/tennessee-slippery_when_wet.png"
+  },
+  {
+    "question": "When is it legal for minors to use a cell phone without a hands-free device while driving?",
+    "options": [
+      {
+        "text": "When making a call while stopped at the red light",
+        "position": 1
+      },
+      {
+        "text": "When making a call for emergency assistance",
+        "position": 2
+      },
+      {
+        "text": "Never",
+        "position": 3
+      }
+    ],
+    "correct": "When making a call for emergency assistance",
+    "correctPosition": 2,
+    "explanation": "It is illegal for minors to use a cell phone at all while driving, except to contact an emergency entity in an emergency situation. For adult drivers, the use of hands-free devices is permitted; however, to avoid distractions, it is advisable to make calls only if needed to call for help in an emergency.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This sign means:",
+    "options": [
+      {
+        "text": "You can travel in either direction in this lane.",
+        "position": 1
+      },
+      {
+        "text": "There is two-way traffic.",
+        "position": 2
+      },
+      {
+        "text": "You are approaching a divided highway.",
+        "position": 3
+      }
+    ],
+    "correct": "There is two-way traffic.",
+    "correctPosition": 2,
+    "explanation": "This sign warns of two-way traffic.",
+    "image": "https://www.dmv-written-test.com/images-car/tennessee-two_way_traffic.png"
+  },
+  {
+    "question": "This red and white sign means you should:",
+    "options": [
+      {
+        "text": "Stop and check for traffic coming from both directions before proceeding.",
+        "position": 1
+      },
+      {
+        "text": "Give the right-of-way to traffic on the road you wish to enter or cross.",
+        "position": 2
+      },
+      {
+        "text": "Maintain a steady speed and check for traffic coming from all directions.",
+        "position": 3
+      }
+    ],
+    "correct": "Give the right-of-way to traffic on the road you wish to enter or cross.",
+    "correctPosition": 2,
+    "explanation": "A three-sided yield sign indicates that you must slow down and be ready to stop, if necessary, to let any vehicle, bicyclist, or pedestrian pass before you proceed. In this case, you do not have the right-of-way.",
+    "image": "https://www.dmv-written-test.com/images-car/california-yield.png"
+  },
+  {
+    "question": "You are driving on a freeway with a posted speed limit of 65 mph. Traffic is heavy and moving at 35 mph. The best speed for your vehicle is most likely:",
+    "options": [
+      {
+        "text": "25 mph.",
+        "position": 1
+      },
+      {
+        "text": "35 mph.",
+        "position": 2
+      },
+      {
+        "text": "30 mph.",
+        "position": 3
+      }
+    ],
+    "correct": "35 mph.",
+    "correctPosition": 2,
+    "explanation": "Collisions are more likely to happen when one driver travels more quickly or more slowly than the other vehicles on the road. You should enter a freeway at or near the speed of traffic, unless the speed of traffic exceeds the legal speed limit.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "In traffic moving at 50 to 55 mph, you are least likely to have an accident if you:",
+    "options": [
+      {
+        "text": "Drive a few miles per hour faster than most other vehicles.",
+        "position": 1
+      },
+      {
+        "text": "Stay within that speed range.",
+        "position": 2
+      },
+      {
+        "text": "Drive a few miles per hour slower than most other vehicles.",
+        "position": 3
+      }
+    ],
+    "correct": "Stay within that speed range.",
+    "correctPosition": 2,
+    "explanation": "You should adjust your speed to travel smoothly with the other traffic on a roadway (provided that the other traffic is driving within the posted speed limits). Remember that vehicles moving in the same direction at the same speed cannot hit each other. Crashes involving multiple vehicles often happen when some vehicles are traveling at different speeds than others.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Your license can be suspended if you are under 21 and drive with a blood alcohol level of:",
+    "options": [
+      {
+        "text": "0.15 percent or more.",
+        "position": 1
+      },
+      {
+        "text": "0.08 percent or more.",
+        "position": 2
+      },
+      {
+        "text": "Any amount.",
+        "position": 3
+      }
+    ],
+    "correct": "Any amount.",
+    "correctPosition": 3,
+    "explanation": "There is zero tolerance for alcohol use by drivers under age 21. If you are under 21, the detection of any trace of alcohol in your system will result in stiff penalties, including the suspension of your license for two years.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "A steady red arrow displayed on a traffic light means:",
+    "options": [
+      {
+        "text": "Drivers cannot turn in the indicated direction.",
+        "position": 1
+      },
+      {
+        "text": "Drivers may turn in the indicated direction after coming to a complete stop.",
+        "position": 2
+      },
+      {
+        "text": "Drivers may turn in the indicated direction.",
+        "position": 3
+      }
+    ],
+    "correct": "Drivers cannot turn in the indicated direction.",
+    "correctPosition": 1,
+    "explanation": "If a traffic signal is displaying a steady red arrow, traffic in the indicated lane may not proceed in the direction shown by the arrow. Drivers must come to a full stop and wait for a green signal to proceed.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "On a multilane road, a dashed yellow line next to a solid yellow line means:",
+    "options": [
+      {
+        "text": "Passing is prohibited from both directions.",
+        "position": 1
+      },
+      {
+        "text": "Passing is permitted from both directions.",
+        "position": 2
+      },
+      {
+        "text": "Passing is permitted only from the direction next to the dashed line.",
+        "position": 3
+      }
+    ],
+    "correct": "Passing is permitted only from the direction next to the dashed line.",
+    "correctPosition": 3,
+    "explanation": "Where there are both solid and dashed yellow lines between lanes of traffic, only traffic directly next to the dashed line may cross the centerline to pass. Drivers next to the solid line may not pass.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "A broken yellow line between two lanes of traffic means:",
+    "options": [
+      {
+        "text": "Both lanes of traffic are going in the same direction.",
+        "position": 1
+      },
+      {
+        "text": "Passing is permitted when it's safe.",
+        "position": 2
+      },
+      {
+        "text": "Passing is not permitted.",
+        "position": 3
+      }
+    ],
+    "correct": "Passing is permitted when it's safe.",
+    "correctPosition": 2,
+    "explanation": "Dashed yellow lines separate single lanes of traffic moving in opposite directions. Passing is allowed when there is no oncoming traffic in the passing lane.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "As your speed increases, it is important to:",
+    "options": [
+      {
+        "text": "Turn on your headlights.",
+        "position": 1
+      },
+      {
+        "text": "Look well ahead of your vehicle.",
+        "position": 2
+      },
+      {
+        "text": "Change lanes frequently.",
+        "position": 3
+      }
+    ],
+    "correct": "Look well ahead of your vehicle.",
+    "correctPosition": 2,
+    "explanation": "Your vehicle's stopping distance increases as your speed increases. When driving at high speeds, it is important to look well ahead of your vehicle to allow yourself space to safely react to hazardous situations.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When driving on an interstate, to avoid traffic merging from on-ramps to your right, the best thing to do is to:",
+    "options": [
+      {
+        "text": "Change lanes to the left.",
+        "position": 1
+      },
+      {
+        "text": "Slow down.",
+        "position": 2
+      },
+      {
+        "text": "Maintain your speed and position.",
+        "position": 3
+      }
+    ],
+    "correct": "Change lanes to the left.",
+    "correctPosition": 1,
+    "explanation": "When driving on an interstate highway, be aware of upcoming on-ramps. When traffic permits, move out of the right-hand lane to allow vehicles to enter from the on-ramps to your right.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This sign tells a driver that:",
+    "options": [
+      {
+        "text": "A construction flagger is ahead.",
+        "position": 1
+      },
+      {
+        "text": "A police officer is ahead.",
+        "position": 2
+      },
+      {
+        "text": "A parking attendant is ahead.",
+        "position": 3
+      }
+    ],
+    "correct": "A construction flagger is ahead.",
+    "correctPosition": 1,
+    "explanation": "This sign warns that there is a flag person ahead. Always follow directions given by a flagger. Flaggers normally wear orange or yellow vests, yellow-green shirts, or bright jackets. They use paddles and red flags to direct traffic through the work zone and to let workers or construction vehicles cross the road.",
+    "image": "https://www.dmv-written-test.com/images-car/connecticut-flagger.png"
+  },
+  {
+    "question": "This sign is a:",
+    "options": [
+      {
+        "text": "Yield sign.",
+        "position": 1
+      },
+      {
+        "text": "School crossing sign.",
+        "position": 2
+      },
+      {
+        "text": "Stop sign.",
+        "position": 3
+      }
+    ],
+    "correct": "Yield sign.",
+    "correctPosition": 1,
+    "explanation": "A downward-facing triangular sign is always a yield sign. Drivers must be prepared to slow down or stop when approaching a yield sign.",
+    "image": "https://www.dmv-written-test.com/images-car/nebraska-yield.png"
+  },
+  {
+    "question": "What should you do when you see this sign?",
+    "options": [
+      {
+        "text": "Look for a train station ahead.",
+        "position": 1
+      },
+      {
+        "text": "Signal before going any further.",
+        "position": 2
+      },
+      {
+        "text": "Slow down and yield to trains.",
+        "position": 3
+      }
+    ],
+    "correct": "Slow down and yield to trains.",
+    "correctPosition": 3,
+    "explanation": "A round sign means you are approaching a railroad crossing. This sign is posted a few hundred feet in front of the tracks and tells drivers to slow down, look, listen, and prepare to stop.",
+    "image": "https://www.dmv-written-test.com/images-car/florida-railroad_crossing.png"
+  }
+]

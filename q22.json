@@ -1,0 +1,968 @@
+[
+  {
+    "question": "This sign means:",
+    "options": [
+      {
+        "text": "You are approaching the end of a divided highway.",
+        "position": 1
+      },
+      {
+        "text": "You are approaching the beginning of a divided highway.",
+        "position": 2
+      },
+      {
+        "text": "The road will be slippery ahead.",
+        "position": 3
+      }
+    ],
+    "correct": "You are approaching the beginning of a divided highway.",
+    "correctPosition": 2,
+    "explanation": "This sign indicates that a divided highway begins ahead. Keep to the right of the median divider.",
+    "image": "https://www.dmv-written-test.com/images-car/nebraska-divided_highway_begins.png"
+  },
+  {
+    "question": "When approaching an intersection that is controlled by a flashing red traffic signal, you must:",
+    "options": [
+      {
+        "text": "Come to a complete stop, yield to oncoming traffic or pedestrians, then proceed.",
+        "position": 1
+      },
+      {
+        "text": "Reduce your speed and proceed with caution.",
+        "position": 2
+      },
+      {
+        "text": "Come to a complete stop and remain stopped as long as the light is red.",
+        "position": 3
+      }
+    ],
+    "correct": "Come to a complete stop, yield to oncoming traffic or pedestrians, then proceed.",
+    "correctPosition": 1,
+    "explanation": "Treat a flashing red traffic signal the same as you would treat a stop sign. Come to a complete stop, yield to oncoming traffic or pedestrians, and proceed when the way is clear.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "You may legally block an intersection:",
+    "options": [
+      {
+        "text": "If you entered the intersection on the green light.",
+        "position": 1
+      },
+      {
+        "text": "During rush hour traffic.",
+        "position": 2
+      },
+      {
+        "text": "Under no circumstances.",
+        "position": 3
+      }
+    ],
+    "correct": "Under no circumstances.",
+    "correctPosition": 3,
+    "explanation": "Even if the light is green, you may not enter an intersection unless you can get completely across before the light turns red. If you block the intersection, you can be cited.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "At dawn or dusk and in rain or snow, it can be hard to see and be seen. A good way to let other drivers know you are there is to turn:",
+    "options": [
+      {
+        "text": "Up the instrumental panel lights.",
+        "position": 1
+      },
+      {
+        "text": "On your parking lights.",
+        "position": 2
+      },
+      {
+        "text": "On your headlights.",
+        "position": 3
+      }
+    ],
+    "correct": "On your headlights.",
+    "correctPosition": 3,
+    "explanation": "You must use your headlights at any time when conditions prevent you from seeing other vehicles and when it may be difficult for other drivers to see you. Always use your low beam headlights if weather conditions require you to use your windshield wipers.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "You must notify the DMV within five days if you:",
+    "options": [
+      {
+        "text": "Sell or transfer your vehicle.",
+        "position": 1
+      },
+      {
+        "text": "Fail a smog test.",
+        "position": 2
+      },
+      {
+        "text": "Get a new prescription for lenses or contacts.",
+        "position": 3
+      }
+    ],
+    "correct": "Sell or transfer your vehicle.",
+    "correctPosition": 1,
+    "explanation": "If you sell or transfer a vehicle, you must report the sale or transfer to the DMV within five days.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Check your rearview mirrors:",
+    "options": [
+      {
+        "text": "Often to see how traffic is moving behind you.",
+        "position": 1
+      },
+      {
+        "text": "To see if a vehicle is in your blind spot.",
+        "position": 2
+      },
+      {
+        "text": "Only when you are slowing down.",
+        "position": 3
+      }
+    ],
+    "correct": "Often to see how traffic is moving behind you.",
+    "correctPosition": 1,
+    "explanation": "When driving, do not develop a fixed stare. Frequently check your rearview mirrors so you know the positions of vehicles near you.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "To see vehicles in your blind spots, you should check:",
+    "options": [
+      {
+        "text": "The inside rearview mirror.",
+        "position": 1
+      },
+      {
+        "text": "The outside rearview mirror.",
+        "position": 2
+      },
+      {
+        "text": "Over your shoulders.",
+        "position": 3
+      }
+    ],
+    "correct": "Over your shoulders.",
+    "correctPosition": 3,
+    "explanation": "By definition, blind spots are areas that cannot be seen using your mirrors. To check your blind spots, you should look over your shoulders.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "To turn left from a multilane one-way street onto a one-way street, you should start your turn from:",
+    "options": [
+      {
+        "text": "Any lane (as long as it is safe).",
+        "position": 1
+      },
+      {
+        "text": "The lane closest to the left curb.",
+        "position": 2
+      },
+      {
+        "text": "The lane in the center of the road.",
+        "position": 3
+      }
+    ],
+    "correct": "The lane closest to the left curb.",
+    "correctPosition": 2,
+    "explanation": "When turning left from a one-way street onto another one-way street, you should begin the turn from the far left lane.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Hydroplaning occurs when tires ride on a thin film of water instead of on the road. To prevent hydroplaning in wet weather, you should:",
+    "options": [
+      {
+        "text": "Put on your cruise control to maintain a constant speed.",
+        "position": 1
+      },
+      {
+        "text": "Slow down.",
+        "position": 2
+      },
+      {
+        "text": "Move to the shoulder of the road as soon as it starts to rain.",
+        "position": 3
+      }
+    ],
+    "correct": "Slow down.",
+    "correctPosition": 2,
+    "explanation": "Hydroplaning is caused by driving too fast on a wet road. Slow down when driving on wet pavement to prevent hydroplaning.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Should you always drive more slowly than other traffic?",
+    "options": [
+      {
+        "text": "No, you can block traffic when you drive too slowly.",
+        "position": 1
+      },
+      {
+        "text": "Yes, it is a good defensive driving technique.",
+        "position": 2
+      },
+      {
+        "text": "Yes, it is always safer than driving faster than other traffic.",
+        "position": 3
+      }
+    ],
+    "correct": "No, you can block traffic when you drive too slowly.",
+    "correctPosition": 1,
+    "explanation": "You must drive more slowly than usual when there is heavy traffic or bad weather. However, if you block the normal and reasonable movement of traffic by driving too slowly, you may be cited.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Safely backing your vehicle requires all of the following, except:",
+    "options": [
+      {
+        "text": "Looking over your right shoulder as you back up.",
+        "position": 1
+      },
+      {
+        "text": "Checking your vehicle's surroundings.",
+        "position": 2
+      },
+      {
+        "text": "Tapping your horn before you back up.",
+        "position": 3
+      }
+    ],
+    "correct": "Tapping your horn before you back up.",
+    "correctPosition": 3,
+    "explanation": "Backing up is always dangerous because it is hard to see behind your vehicle. Prior to entering your vehicle, check your surroundings to be aware of any potential hazards. When you are backing out of a parking space, look over your shoulder to maintain awareness of your surroundings.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "To avoid glare from the headlights of an approaching car:",
+    "options": [
+      {
+        "text": "Look briefly toward the right side of the road.",
+        "position": 1
+      },
+      {
+        "text": "Stay focused on the centerline on the road.",
+        "position": 2
+      },
+      {
+        "text": "Flash your high beams.",
+        "position": 3
+      }
+    ],
+    "correct": "Look briefly toward the right side of the road.",
+    "correctPosition": 1,
+    "explanation": "You should avoid looking toward the bright lights of an oncoming vehicle by glancing toward the right side of the road. After looking briefly toward the side of the road, continue looking ahead to check on the position of the other vehicle.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When changing lanes:",
+    "options": [
+      {
+        "text": "Rely on the rearview mirror.",
+        "position": 1
+      },
+      {
+        "text": "Look over your shoulder in the direction you plan to move.",
+        "position": 2
+      },
+      {
+        "text": "Rely on the left side mirror.",
+        "position": 3
+      }
+    ],
+    "correct": "Look over your shoulder in the direction you plan to move.",
+    "correctPosition": 2,
+    "explanation": "When changing lanes, glance over your shoulder to check for traffic in your blind spot. You may need to look several times before changing lanes. You must keep track of what traffic is doing in front of you as well as what traffic is doing in the lane next to you.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This road sign means:",
+    "options": [
+      {
+        "text": "All traffic must turn right.",
+        "position": 1
+      },
+      {
+        "text": "All traffic must go straight.",
+        "position": 2
+      },
+      {
+        "text": "A side road intersects ahead.",
+        "position": 3
+      }
+    ],
+    "correct": "A side road intersects ahead.",
+    "correctPosition": 3,
+    "explanation": "Warning signs provide notice to road users of a situation that might not be readily apparent and are usually yellow with black markings. This warning sign tells drivers to be alert to an intersecting side road ahead.",
+    "image": "https://www.dmv-written-test.com/images-car/maryland-side_road_enters_ahead.png"
+  },
+  {
+    "question": "When changing lanes on a freeway, you should:",
+    "options": [
+      {
+        "text": "Signal for at least five seconds.",
+        "position": 1
+      },
+      {
+        "text": "Slow down before you start to change lanes.",
+        "position": 2
+      },
+      {
+        "text": "Assume there is enough space in the next lane for your vehicle, if you signal first.",
+        "position": 3
+      }
+    ],
+    "correct": "Signal for at least five seconds.",
+    "correctPosition": 1,
+    "explanation": "Signal at least five seconds prior to a changing lanes on a freeway. Always signal when turning left or right, changing lanes, slowing down, or stopping to let other drivers, motorcyclists, bicyclists, and pedestrians know your intentions.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Which of the following roadways freeze first when wet?",
+    "options": [
+      {
+        "text": "Bridges and overpasses",
+        "position": 1
+      },
+      {
+        "text": "Intersections",
+        "position": 2
+      },
+      {
+        "text": "Tunnels",
+        "position": 3
+      }
+    ],
+    "correct": "Bridges and overpasses",
+    "correctPosition": 1,
+    "explanation": "Bridges and overpasses tend to freeze before the rest of the road does.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Which of these statements is true about roadwork zones?",
+    "options": [
+      {
+        "text": "Fines are the same for violations committed in work zones as they are under normal traffic conditions.",
+        "position": 1
+      },
+      {
+        "text": "You must \"Slow for the Cone Zone.\"",
+        "position": 2
+      },
+      {
+        "text": "Slow down only if you think workers are present.",
+        "position": 3
+      }
+    ],
+    "correct": "You must \"Slow for the Cone Zone.\"",
+    "correctPosition": 2,
+    "explanation": "Reduce your speed and be prepared to slow down or stop for highway equipment. Driving carefully through work zones improves safety for drivers, pedestrians, bicyclists, and road workers.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "While all of the following actions are dangerous to do while driving, which is also illegal? ",
+    "options": [
+      {
+        "text": "Listening to music through a set of dual headphones.",
+        "position": 1
+      },
+      {
+        "text": "Adjusting your outside mirrors.",
+        "position": 2
+      },
+      {
+        "text": "Reading a road map.",
+        "position": 3
+      }
+    ],
+    "correct": "Listening to music through a set of dual headphones.",
+    "correctPosition": 1,
+    "explanation": "Listening to music through a set of dual headphones is dangerous and illegal. ",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "You are approaching an intersection at the posted speed limit when the signal turns yellow. You should:",
+    "options": [
+      {
+        "text": "Slow down and proceed through the intersection without caution.",
+        "position": 1
+      },
+      {
+        "text": "Speed up to cross the intersection before the light turns red.",
+        "position": 2
+      },
+      {
+        "text": "Stop before entering the intersection, if you can do so safely.",
+        "position": 3
+      }
+    ],
+    "correct": "Stop before entering the intersection, if you can do so safely.",
+    "correctPosition": 3,
+    "explanation": "A solid yellow light means \"caution\" and signals that the light will soon turn red. You should stop at a solid yellow light if you can do so safely; otherwise, you should cautiously cross the intersection.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "There are oncoming vehicles to your left and a row of parked vehicles to your right. You should steer:",
+    "options": [
+      {
+        "text": "Closer to the oncoming vehicles than the parked vehicles.",
+        "position": 1
+      },
+      {
+        "text": "Closer to the parked vehicles than the oncoming vehicles.",
+        "position": 2
+      },
+      {
+        "text": "A middle course between the oncoming and parked vehicles.",
+        "position": 3
+      }
+    ],
+    "correct": "A middle course between the oncoming and parked vehicles.",
+    "correctPosition": 3,
+    "explanation": "If there are oncoming vehicles to your left and a row of parked vehicles to your right, the best thing to do is to split the difference. Steer a middle course between the oncoming cars and the parked cars.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "A solid yellow arrow on a traffic signal means:",
+    "options": [
+      {
+        "text": "You should speed up so you can make the turn before the light changes.",
+        "position": 1
+      },
+      {
+        "text": "You do not need to signal to turn from the indicated lane.",
+        "position": 2
+      },
+      {
+        "text": "You should prepare to stop and yield the right-of-way to oncoming traffic.",
+        "position": 3
+      }
+    ],
+    "correct": "You should prepare to stop and yield the right-of-way to oncoming traffic.",
+    "correctPosition": 3,
+    "explanation": "A solid yellow arrow means that the protection of a green arrow is ending. If you are turning in the direction of the arrow, you should prepare to stop and yield the right-of-way to oncoming traffic before turning.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "You want to make a right turn at an upcoming intersection. You should slow down and:",
+    "options": [
+      {
+        "text": "Move toward the left side of your lane.",
+        "position": 1
+      },
+      {
+        "text": "Avoid driving in the bicycle lane.",
+        "position": 2
+      },
+      {
+        "text": "Signal for 100 feet before turning.",
+        "position": 3
+      }
+    ],
+    "correct": "Signal for 100 feet before turning.",
+    "correctPosition": 3,
+    "explanation": "When making a right turn, you should begin signaling about 100 feet before the turn.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This road sign means:",
+    "options": [
+      {
+        "text": "You must travel through the intersection at the posted speed limit.",
+        "position": 1
+      },
+      {
+        "text": "The maximum speed limit under ideal conditions is 55 mph.",
+        "position": 2
+      },
+      {
+        "text": "You must not travel below the speed indicated.",
+        "position": 3
+      }
+    ],
+    "correct": "The maximum speed limit under ideal conditions is 55 mph.",
+    "correctPosition": 2,
+    "explanation": "Regulatory signs provide notice to road users of traffic laws that must be obeyed. This particular sign tells you the maximum speed limit for the stretch of highway where it is posted. You may drive more slowly than the posted speed limit, based on road conditions, but it is illegal to drive any faster than the posted speed limit.",
+    "image": "https://www.dmv-written-test.com/images-car/arkansas-speed_limit_55.png"
+  },
+  {
+    "question": "If the rear of your vehicle is skidding to the left, you should:",
+    "options": [
+      {
+        "text": "Not turn your steering wheel.",
+        "position": 1
+      },
+      {
+        "text": "Turn your steering wheel to the left to correct the skid. ",
+        "position": 2
+      },
+      {
+        "text": "Turn your steering wheel to the right to correct the skid. ",
+        "position": 3
+      }
+    ],
+    "correct": "Turn your steering wheel to the left to correct the skid. ",
+    "correctPosition": 2,
+    "explanation": "If you begin to skid on a wet or icy road, take your foot off the accelerator, stay off the brakes, and turn your steering wheel in the direction of the skid. However, if you have anti-lock brakes, you should apply your brakes firmly and steer straight ahead.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "As the percentage of alcohol (BAC) in your blood increases, you become:",
+    "options": [
+      {
+        "text": "More intoxicated.",
+        "position": 1
+      },
+      {
+        "text": "More sober.",
+        "position": 2
+      },
+      {
+        "text": "More coordinated.",
+        "position": 3
+      }
+    ],
+    "correct": "More intoxicated.",
+    "correctPosition": 1,
+    "explanation": "Blood alcohol concentration (BAC) is a measure of the percentage of alcohol in a person's blood. The higher the BAC, the more impaired a person is.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This sign indicates that the road ahead:",
+    "options": [
+      {
+        "text": "Turns sharply right, then left.",
+        "position": 1
+      },
+      {
+        "text": "Curves right, then left.",
+        "position": 2
+      },
+      {
+        "text": "Curves right.",
+        "position": 3
+      }
+    ],
+    "correct": "Curves right, then left.",
+    "correctPosition": 2,
+    "explanation": "This sign warns of a reverse curve in which the road curves to the right, then to the left.",
+    "image": "https://www.dmv-written-test.com/images-car/nebraska-reverse_curve.png"
+  },
+  {
+    "question": "If a child is about to run into the street, you should:",
+    "options": [
+      {
+        "text": "Start to prepare to slow down.",
+        "position": 1
+      },
+      {
+        "text": "Flash your headlights.",
+        "position": 2
+      },
+      {
+        "text": "Sound a sharp blast of your horn.",
+        "position": 3
+      }
+    ],
+    "correct": "Sound a sharp blast of your horn.",
+    "correctPosition": 3,
+    "explanation": "If there is danger, you may need to sound a sharp blast on your horn. Do this when a child or any other pedestrian is about to enter into the street in front of your moving vehicle.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When you see a flashing yellow light at an intersection, you should:",
+    "options": [
+      {
+        "text": "Yield to all traffic before crossing the intersection.",
+        "position": 1
+      },
+      {
+        "text": "Stop, then enter the intersection when it is safe to do so.",
+        "position": 2
+      },
+      {
+        "text": "Slow down and cross the intersection carefully.",
+        "position": 3
+      }
+    ],
+    "correct": "Slow down and cross the intersection carefully.",
+    "correctPosition": 3,
+    "explanation": "A flashing yellow light at an intersection indicates that drivers should slow to a safe and reasonable speed and proceed with caution.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This road sign means:",
+    "options": [
+      {
+        "text": "No right turn.",
+        "position": 1
+      },
+      {
+        "text": "No U-turns.",
+        "position": 2
+      },
+      {
+        "text": "No left turn.",
+        "position": 3
+      }
+    ],
+    "correct": "No right turn.",
+    "correctPosition": 1,
+    "explanation": "Regulatory signs provide notice to road users of traffic laws and must be obeyed. Where this sign is posted, making a right turn is prohibited.",
+    "image": "https://www.dmv-written-test.com/images-car/maryland-no_right_turn.png"
+  },
+  {
+    "question": "If you are riding in a vehicle equipped with a lap belt and a separate shoulder belt, you are:",
+    "options": [
+      {
+        "text": "Only required to use the lap belt.",
+        "position": 1
+      },
+      {
+        "text": "Required to use both the lap and shoulder belts.",
+        "position": 2
+      },
+      {
+        "text": "Only required to use the shoulder belt.",
+        "position": 3
+      }
+    ],
+    "correct": "Required to use both the lap and shoulder belts.",
+    "correctPosition": 2,
+    "explanation": "If your vehicle is equipped with a lap belt and a separate shoulder belt, you are required to use both.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This road sign means:",
+    "options": [
+      {
+        "text": "Road construction ahead.",
+        "position": 1
+      },
+      {
+        "text": "The road ahead curves left then right.",
+        "position": 2
+      },
+      {
+        "text": "The road ahead curves right then left.",
+        "position": 3
+      }
+    ],
+    "correct": "The road ahead curves right then left.",
+    "correctPosition": 3,
+    "explanation": "Warning signs are usually yellow with black markings. This sign warns drivers that the upcoming road will curve right, followed by a curve to the left. Drivers should adjust their speed to safely continue on the road.",
+    "image": "https://www.dmv-written-test.com/images-car/connecticut-road_curves_to_right_and_left.png"
+  },
+  {
+    "question": "Which of the following driving skills are affected by the use of alcohol and/or drugs?",
+    "options": [
+      {
+        "text": "Alertness and concentration.",
+        "position": 1
+      },
+      {
+        "text": "Reaction time and coordination.",
+        "position": 2
+      },
+      {
+        "text": "All of the above.",
+        "position": 3
+      }
+    ],
+    "correct": "All of the above.",
+    "correctPosition": 3,
+    "explanation": "Any amount of alcohol acts as a depressant, slowing the function of the nervous system. It will reduce a person's alertness and ability to concentrate, increase their reaction time, and drastically reduce their coordination.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "You must yield the right-of-way to an emergency vehicle that is using its siren and flashing lights by:",
+    "options": [
+      {
+        "text": "Driving as closely to the right edge of the road as possible and stopping.",
+        "position": 1
+      },
+      {
+        "text": "Moving into the right lane and driving slowly until it has passed.",
+        "position": 2
+      },
+      {
+        "text": "Stopping immediately, even if you are within an intersection.",
+        "position": 3
+      }
+    ],
+    "correct": "Driving as closely to the right edge of the road as possible and stopping.",
+    "correctPosition": 1,
+    "explanation": "You must yield the right-of-way to any emergency vehicle that is using its siren and flashing lights. Do this by driving to the right edge of the road and stopping, taking care not to stop in an intersection. You may move again after the emergency vehicle has passed.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This sign means:",
+    "options": [
+      {
+        "text": "Divided highway.",
+        "position": 1
+      },
+      {
+        "text": "Railroad warning.",
+        "position": 2
+      },
+      {
+        "text": "No passing zone.",
+        "position": 3
+      }
+    ],
+    "correct": "Divided highway.",
+    "correctPosition": 1,
+    "explanation": "This sign indicates that a divided highway begins ahead.",
+    "image": "https://www.dmv-written-test.com/images-car/illinois-divided_highway_begins.png"
+  },
+  {
+    "question": "Signs with orange backgrounds are:",
+    "options": [
+      {
+        "text": "General warning signs.",
+        "position": 1
+      },
+      {
+        "text": "Construction and maintenance warning signs.",
+        "position": 2
+      },
+      {
+        "text": "Regulatory signs.",
+        "position": 3
+      }
+    ],
+    "correct": "Construction and maintenance warning signs.",
+    "correctPosition": 2,
+    "explanation": "The color orange is used only for construction and maintenance warning signs.",
+    "image": "https://www.dmv-written-test.com/images-car/illinois-construction.png"
+  },
+  {
+    "question": "If a tire blows out, you should:",
+    "options": [
+      {
+        "text": "Apply the brake and hold it.",
+        "position": 1
+      },
+      {
+        "text": "Hold the steering wheel tightly and use the brakes lightly.",
+        "position": 2
+      },
+      {
+        "text": "Pull over quickly.",
+        "position": 3
+      }
+    ],
+    "correct": "Hold the steering wheel tightly and use the brakes lightly.",
+    "correctPosition": 2,
+    "explanation": "If a tire suddenly blows out while you are driving, hold the steering wheel tightly and keep the vehicle going straight.You should slow down gradually, taking your foot off the gas pedal and using the brakes lightly. Do not stop on the road if at all possible. Pull off the road in a safe place.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "If your vehicle begins to skid, you should:",
+    "options": [
+      {
+        "text": "Ease up on the gas pedal.",
+        "position": 1
+      },
+      {
+        "text": "Brake as hard as possible.",
+        "position": 2
+      },
+      {
+        "text": "Turn off the ignition.",
+        "position": 3
+      }
+    ],
+    "correct": "Ease up on the gas pedal.",
+    "correctPosition": 1,
+    "explanation": "If your vehicle begins to skid, release the accelerator or brake pedal to regain vehicle balance. Steer in the direction of the skid to regain control of the vehicle.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "To help others see you when daylight begins to fade, you should use your:",
+    "options": [
+      {
+        "text": "Parking lights.",
+        "position": 1
+      },
+      {
+        "text": "Low beam headlights.",
+        "position": 2
+      },
+      {
+        "text": "Emergency flashers.",
+        "position": 3
+      }
+    ],
+    "correct": "Low beam headlights.",
+    "correctPosition": 2,
+    "explanation": "As daylight begins to fade, turn on your low beams to help others see you. Only use your high beam headlights in an open area where no other drivers are present. ",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "What does this road sign indicate?",
+    "options": [
+      {
+        "text": "Directions for children",
+        "position": 1
+      },
+      {
+        "text": "School zone ahead",
+        "position": 2
+      },
+      {
+        "text": "Playground area ahead",
+        "position": 3
+      }
+    ],
+    "correct": "School zone ahead",
+    "correctPosition": 2,
+    "explanation": "Pentagonal signs indicate that you are in or are approaching a school zone and/or school crossing. Be aware of children when driving near a school zone and follow posted speed limits.",
+    "image": "https://www.dmv-written-test.com/images-car/arkansas-school_zone.png"
+  },
+  {
+    "question": "When arriving to an uncontrolled intersection at the same time as vehicles to your right and left, you should:",
+    "options": [
+      {
+        "text": "Yield the right-of-way to the vehicle on your left.",
+        "position": 1
+      },
+      {
+        "text": "Yield the right-of-way to the vehicle on your right.",
+        "position": 2
+      },
+      {
+        "text": "Wait until there are no vehicles at the intersection before proceeding.",
+        "position": 3
+      }
+    ],
+    "correct": "Yield the right-of-way to the vehicle on your right.",
+    "correctPosition": 2,
+    "explanation": "If multiple vehicles arrive at the same time to an intersection that is not controlled by signs or signals, the driver on the right has the right-of-way. Drivers should then proceed in the order that they arrive to the intersection.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When driving in fog, rain, or snow, use:",
+    "options": [
+      {
+        "text": "Low beams.",
+        "position": 1
+      },
+      {
+        "text": "High beams.",
+        "position": 2
+      },
+      {
+        "text": "Fog lights only.",
+        "position": 3
+      }
+    ],
+    "correct": "Low beams.",
+    "correctPosition": 1,
+    "explanation": "Low beam headlights should be used in fog, rain, and snow. The light from high beams will reflect back to the driver under these weather conditions, causing a glare that will make it difficult to see ahead.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When backing up:",
+    "options": [
+      {
+        "text": "Look through the rear window.",
+        "position": 1
+      },
+      {
+        "text": "Press hard on the gas pedal.",
+        "position": 2
+      },
+      {
+        "text": "Rely only on your rearview mirror.",
+        "position": 3
+      }
+    ],
+    "correct": "Look through the rear window.",
+    "correctPosition": 1,
+    "explanation": "When backing up, place your right arm on the back of the passenger seat and look directly through the rear window. Do not depend on your rearview or side mirrors as mirrors do not show directly behind your vehicle. Only drive in reverse at a low speed.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This sign means:",
+    "options": [
+      {
+        "text": "No left turn can be made here.",
+        "position": 1
+      },
+      {
+        "text": "A left turn can be made only after stopping.",
+        "position": 2
+      },
+      {
+        "text": "All traffic must turn right at the next intersection.",
+        "position": 3
+      }
+    ],
+    "correct": "No left turn can be made here.",
+    "correctPosition": 1,
+    "explanation": "Signs with a red circle and diagonal line over a black symbol indicate that the action represented by the symbol is prohibited. In this case, the sign indicates that left turns are prohibited.",
+    "image": "https://www.dmv-written-test.com/images-car/tennessee-no_left_turn.png"
+  },
+  {
+    "question": "When changing lanes, you can check your blind spot by:",
+    "options": [
+      {
+        "text": "Using the inside rearview mirror.",
+        "position": 1
+      },
+      {
+        "text": "Turning your head and looking over your shoulder.",
+        "position": 2
+      },
+      {
+        "text": "Using your side mirror.",
+        "position": 3
+      }
+    ],
+    "correct": "Turning your head and looking over your shoulder.",
+    "correctPosition": 2,
+    "explanation": "Even if your vehicle is properly equipped with mirrors, there are blind spots that cannot be seen by using the mirrors. Before changing lanes, look over your shoulder to check these areas.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "The amount of alcohol in the blood is referred to as:",
+    "options": [
+      {
+        "text": "Implied consent (IC).",
+        "position": 1
+      },
+      {
+        "text": "Blood alcohol concentration (BAC).",
+        "position": 2
+      },
+      {
+        "text": "Rate of alcohol consumption (RAC).",
+        "position": 3
+      }
+    ],
+    "correct": "Blood alcohol concentration (BAC).",
+    "correctPosition": 2,
+    "explanation": "Blood alcohol concentration (BAC) is a measurement of the percentage of alcohol in the blood. The higher the BAC number, the more impaired a person is.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "A U-turn is not permitted:",
+    "options": [
+      {
+        "text": "In a parking lot.",
+        "position": 1
+      },
+      {
+        "text": "On or near any curve or hill.",
+        "position": 2
+      },
+      {
+        "text": "On a straight roadway with a clear view for 500 feet in both directions.",
+        "position": 3
+      }
+    ],
+    "correct": "On or near any curve or hill.",
+    "correctPosition": 2,
+    "explanation": "You must never turn around while on or near any curve or hill. You may not be able to see oncoming traffic or pedestrians and may cause a collision.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  }
+]

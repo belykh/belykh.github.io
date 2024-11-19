@@ -1,0 +1,947 @@
+[
+  {
+    "question": "This yellow sign means:",
+    "options": [
+      {
+        "text": "One lane ahead.",
+        "position": 1
+      },
+      {
+        "text": "Merging traffic ahead.",
+        "position": 2
+      },
+      {
+        "text": "Lane ends ahead.",
+        "position": 3
+      }
+    ],
+    "correct": "Merging traffic ahead.",
+    "correctPosition": 2,
+    "explanation": "This sign warns of the possible presence of merging traffic.",
+    "image": "https://www.dmv-written-test.com/images-car/california-merging_traffic.png"
+  },
+  {
+    "question": "When driving in fog, you should:",
+    "options": [
+      {
+        "text": "Slow down and use your low beam headlights.",
+        "position": 1
+      },
+      {
+        "text": "Slow down and use your high beam headlights.",
+        "position": 2
+      },
+      {
+        "text": "Turn your lights on and off to warn other drivers.",
+        "position": 3
+      }
+    ],
+    "correct": "Slow down and use your low beam headlights.",
+    "correctPosition": 1,
+    "explanation": "When driving in fog, you should slow down and use your low beam headlights. If the fog is so bad that you cannot see, pull off the road and wait for the fog to clear.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When driving in fog, you should use your:",
+    "options": [
+      {
+        "text": "Fog lights only.",
+        "position": 1
+      },
+      {
+        "text": "High beams.",
+        "position": 2
+      },
+      {
+        "text": "Low beams.",
+        "position": 3
+      }
+    ],
+    "correct": "Low beams.",
+    "correctPosition": 3,
+    "explanation": "It is best to postpone driving until a fog clears. However, if you must drive in the fog, you should do so slowly and use your windshield wipers and low beam headlights.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "You drive defensively when you:",
+    "options": [
+      {
+        "text": "Put one car length between you and the car ahead.",
+        "position": 1
+      },
+      {
+        "text": "Look only at the car in front of you while driving.",
+        "position": 2
+      },
+      {
+        "text": "Keep your eyes moving to look for possible hazards.",
+        "position": 3
+      }
+    ],
+    "correct": "Keep your eyes moving to look for possible hazards.",
+    "correctPosition": 3,
+    "explanation": "You are driving defensively when you are looking down the road for potential hazards. Constantly staring at the road directly in front of your vehicle is dangerous. As you scan ahead, be alert to vehicles around you.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "With a Class C driver license, a person may drive:",
+    "options": [
+      {
+        "text": "A three-axle vehicle if the Gross Vehicle Weight is less than 6,000 pounds.",
+        "position": 1
+      },
+      {
+        "text": "Any three-axle vehicle, regardless of the weight.",
+        "position": 2
+      },
+      {
+        "text": "A vehicle pulling two trailers.",
+        "position": 3
+      }
+    ],
+    "correct": "A three-axle vehicle if the Gross Vehicle Weight is less than 6,000 pounds.",
+    "correctPosition": 1,
+    "explanation": "A person with a Class C license may drive a three-axle vehicle if it weighs 6,000 pounds or less.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "It is illegal to leave a child age six or younger unattended in a vehicle on a hot day:",
+    "options": [
+      {
+        "text": "Even if they are secured in a child passenger restraint system.",
+        "position": 1
+      },
+      {
+        "text": "If they are supervised by a person twelve years of age or older.",
+        "position": 2
+      },
+      {
+        "text": "Only if the key is in the ignition.",
+        "position": 3
+      }
+    ],
+    "correct": "Even if they are secured in a child passenger restraint system.",
+    "correctPosition": 1,
+    "explanation": "It is never a good idea to leave a child unattended in a car. It is illegal to leave a child age six or younger unattended in a vehicle. A child may be left under the supervision of a person age 12 or older.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Collisions are more likely to happen when:",
+    "options": [
+      {
+        "text": "All vehicles are traveling at about the same speed.",
+        "position": 1
+      },
+      {
+        "text": "One lane of traffic is traveling faster than the other lanes.",
+        "position": 2
+      },
+      {
+        "text": "One vehicle is traveling faster or slower than the flow of traffic.",
+        "position": 3
+      }
+    ],
+    "correct": "One vehicle is traveling faster or slower than the flow of traffic.",
+    "correctPosition": 3,
+    "explanation": "Collisions are more likely to happen when one driver moves faster or slower than the other vehicles on the road. Driving faster than other traffic increases your chance of being involved in a collision. Driving more slowly than other traffic is also dangerous because it can increase the risk of a rear-end collision with your vehicle or cause other drivers to swerve to avoid hitting you.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "You may make a left turn on a red light only from a:",
+    "options": [
+      {
+        "text": "One-way street onto a two-way street.",
+        "position": 1
+      },
+      {
+        "text": "One-way street onto a one-way street.",
+        "position": 2
+      },
+      {
+        "text": "Two-way street onto a one-way street.",
+        "position": 3
+      }
+    ],
+    "correct": "One-way street onto a one-way street.",
+    "correctPosition": 2,
+    "explanation": "You may turn left against a red light when you are turning from a one-way street onto a one-way street. Make sure there is no sign prohibiting the turn. Yield to other vehicles, pedestrians, or bicyclists who have a green light. Look both ways and turn when it is safe.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "You may drive a motor vehicle in a bike lane:",
+    "options": [
+      {
+        "text": "If you drive more slowly than 15 mph.",
+        "position": 1
+      },
+      {
+        "text": "No more than 200 feet before making a right turn.",
+        "position": 2
+      },
+      {
+        "text": "Whenever bicyclists are not present.",
+        "position": 3
+      }
+    ],
+    "correct": "No more than 200 feet before making a right turn.",
+    "correctPosition": 2,
+    "explanation": "If making a right turn, you may enter the bicycle lane no more than 200 feet before the corner or driveway. Drivers of motor vehicles should not enter a bicycle lane at any other time.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "It is necessary to use your low beams any time you are:",
+    "options": [
+      {
+        "text": "On a lighted street.",
+        "position": 1
+      },
+      {
+        "text": "On a freeway.",
+        "position": 2
+      },
+      {
+        "text": "In fog.",
+        "position": 3
+      }
+    ],
+    "correct": "In fog.",
+    "correctPosition": 3,
+    "explanation": "Use your low beams when driving in fog, snow, rain, or mist. Light from high beams will reflect off of precipitation, causing a glare and making it even more difficult to see. Some vehicles are equipped with fog lights that should be used in addition to low beam headlights.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Reaction time is slower after:",
+    "options": [
+      {
+        "text": "Drinking alcohol.",
+        "position": 1
+      },
+      {
+        "text": "Sleeping.",
+        "position": 2
+      },
+      {
+        "text": "Working hard.",
+        "position": 3
+      }
+    ],
+    "correct": "Drinking alcohol.",
+    "correctPosition": 1,
+    "explanation": "Alcohol slows your reflexes and reaction time, reduces your ability to see clearly, and makes you less alert. As the amount of alcohol in your body increases, your judgment worsens and your driving skills decrease. You will have trouble judging distances, speeds, and the movement of other vehicles.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Before you enter an intersection, you should look to your:",
+    "options": [
+      {
+        "text": "Left, your right, then your left again.",
+        "position": 1
+      },
+      {
+        "text": "Right.",
+        "position": 2
+      },
+      {
+        "text": "Left.",
+        "position": 3
+      }
+    ],
+    "correct": "Left, your right, then your left again.",
+    "correctPosition": 1,
+    "explanation": "Before you enter an intersection, look to both the left and right for approaching vehicles or crossing pedestrians. Look to your left a second time, as vehicle approaching from your left will be closer than those approaching from your right. Look across the intersection before you start to move to make sure the path is clear all the way through.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "To pass on a two-lane road, you should:",
+    "options": [
+      {
+        "text": "Sound your horn as you pass.",
+        "position": 1
+      },
+      {
+        "text": "Flash your headlights as you pass.",
+        "position": 2
+      },
+      {
+        "text": "Judge the distance to any oncoming vehicles.",
+        "position": 3
+      }
+    ],
+    "correct": "Judge the distance to any oncoming vehicles.",
+    "correctPosition": 3,
+    "explanation": "It can be hard to judge the speed of oncoming vehicles. They do not always seem to be coming as fast as they really are. Always be sure you can safely change lanes when passing on a two-lane street. If you are not sure of an oncoming vehicle's speed, wait to pass until the oncoming vehicle has passed and you are sure there is enough space for you to change lanes safely.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "If you approach a stopped school bus that has its lights flashing and signal arm extended, you should:",
+    "options": [
+      {
+        "text": "Stop.",
+        "position": 1
+      },
+      {
+        "text": "Proceed at 15 mph if no children are present.",
+        "position": 2
+      },
+      {
+        "text": "Proceed at normal speed, but watch for children.",
+        "position": 3
+      }
+    ],
+    "correct": "Stop.",
+    "correctPosition": 1,
+    "explanation": "If you approach a stopped school bus that has its lights flashing and arm extended, you must come to a full stop and remain stopped until the signal arm is pulled back and the bus resumes motion. This law applies whether you are traveling in the same direction as the bus or if you are approaching from the opposite side of the street.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "At intersections, crosswalks, and railroad crossings, you should always:",
+    "options": [
+      {
+        "text": "Stop, listen, and proceed cautiously.",
+        "position": 1
+      },
+      {
+        "text": "Look to the sides of your vehicle to see what is coming.",
+        "position": 2
+      },
+      {
+        "text": "Slowly pass vehicles that seem to be stopped for no reason. ",
+        "position": 3
+      }
+    ],
+    "correct": "Look to the sides of your vehicle to see what is coming.",
+    "correctPosition": 2,
+    "explanation": "Any time you come to a place where people may cross or enter your path, or where one line of traffic meets another, you should look to the left and right sides of your vehicle to make sure no one is coming.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When used on roadways, bicycles are considered:",
+    "options": [
+      {
+        "text": "Hazards.",
+        "position": 1
+      },
+      {
+        "text": "Vehicles.",
+        "position": 2
+      },
+      {
+        "text": "Dangerous.",
+        "position": 3
+      }
+    ],
+    "correct": "Vehicles.",
+    "correctPosition": 2,
+    "explanation": "Bicycles are considered vehicles when used on roadways. Bicyclists and motorists are expected to follow the same rules of the road.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This road sign means:",
+    "options": [
+      {
+        "text": "When pavement is wet, reduce your speed.",
+        "position": 1
+      },
+      {
+        "text": "The road ahead winds in a series of turns or curves.",
+        "position": 2
+      },
+      {
+        "text": "Traffic increases ahead.",
+        "position": 3
+      }
+    ],
+    "correct": "When pavement is wet, reduce your speed.",
+    "correctPosition": 1,
+    "explanation": "Warning signs are usually yellow with black markings. This sign warns drivers that the roadway will be slippery when wet and they should reduce their speed accordingly.",
+    "image": "https://www.dmv-written-test.com/images-car/georgia-slippery_when_wet.png"
+  },
+  {
+    "question": "If you come across livestock or other animals on the roadway, you should:",
+    "options": [
+      {
+        "text": "Swerve out of the way.",
+        "position": 1
+      },
+      {
+        "text": "Slow down and stop.",
+        "position": 2
+      },
+      {
+        "text": "Ignore them.",
+        "position": 3
+      }
+    ],
+    "correct": "Slow down and stop.",
+    "correctPosition": 2,
+    "explanation": "If you are driving and come across an animal of any kind in the road, try to slow down and stop if it's safe to do so. Swerving to avoid an animal can be dangerous because your vehicle may lose control and cause an accident.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "At a school crossing sign, you should:",
+    "options": [
+      {
+        "text": "Always stop, whether there is a stop sign or not.",
+        "position": 1
+      },
+      {
+        "text": "Watch for children and be ready to stop.",
+        "position": 2
+      },
+      {
+        "text": "Always sound your horn when you see children.",
+        "position": 3
+      }
+    ],
+    "correct": "Watch for children and be ready to stop.",
+    "correctPosition": 2,
+    "explanation": "Pentagonal signs mean you are approaching a school zone and/or school crossing. When you see these signs, be alert and prepare to stop.",
+    "image": "https://www.dmv-written-test.com/images-car/georgia-school_crosswalk.png"
+  },
+  {
+    "question": "Smoking inside a vehicle with a person younger than 18 years of age is:",
+    "options": [
+      {
+        "text": "Legal, if it is your child.",
+        "position": 1
+      },
+      {
+        "text": "Illegal at all times.",
+        "position": 2
+      },
+      {
+        "text": "Not restricted by law.",
+        "position": 3
+      }
+    ],
+    "correct": "Illegal at all times.",
+    "correctPosition": 2,
+    "explanation": "In California, it is illegal to smoke in a vehicle at any time when a minor is present.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Yellow lines separate:",
+    "options": [
+      {
+        "text": "Traffic lanes on one-way streets.",
+        "position": 1
+      },
+      {
+        "text": "Traffic moving in opposite directions on two-way roads.",
+        "position": 2
+      },
+      {
+        "text": "All carpool lanes from regular traffic lanes.",
+        "position": 3
+      }
+    ],
+    "correct": "Traffic moving in opposite directions on two-way roads.",
+    "correctPosition": 2,
+    "explanation": "Yellow lines mark the center of a road used for two-way traffic. A solid yellow centerline indicates that drivers may not cross the line to pass. A broken yellow centerline indicates that drivers may cross the line to pass, but only if passing would not interfere with traffic.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When should you yield your legal right-of-way?",
+    "options": [
+      {
+        "text": "Often, even at controlled intersections.",
+        "position": 1
+      },
+      {
+        "text": "Whenever it helps prevent collisions.",
+        "position": 2
+      },
+      {
+        "text": "Never. It confuses other drivers.",
+        "position": 3
+      }
+    ],
+    "correct": "Whenever it helps prevent collisions.",
+    "correctPosition": 2,
+    "explanation": "Never assume other drivers will give you the right-of-way. Yield your right-of-way whenever it helps prevent collisions.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Tailgating other drivers (driving too closely to their rear bumper):",
+    "options": [
+      {
+        "text": "Can frustrate other drivers and make them angry.",
+        "position": 1
+      },
+      {
+        "text": "Cannot result in a traffic citation.",
+        "position": 2
+      },
+      {
+        "text": "Reduces collisions by preventing being \"cut off.\"",
+        "position": 3
+      }
+    ],
+    "correct": "Can frustrate other drivers and make them angry.",
+    "correctPosition": 1,
+    "explanation": "Tailgating is a common behavior that can lead to aggressive driving, and so it should be avoided. Drivers may face legal consequences for driving unsafely. ",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "It is illegal to drive in a bicycle lane unless you are:",
+    "options": [
+      {
+        "text": "in need of the space and the bike lane is empty.",
+        "position": 1
+      },
+      {
+        "text": "Passing another vehicle",
+        "position": 2
+      },
+      {
+        "text": "Parking (where permitted), entering or leaving the road, turning (within 200 feet of an intersection).",
+        "position": 3
+      }
+    ],
+    "correct": "Parking (where permitted), entering or leaving the road, turning (within 200 feet of an intersection).",
+    "correctPosition": 3,
+    "explanation": "It is illegal to drive in a bicycle lane unless you are parking (where permitted), entering or leaving the road, or turning (within 200 feet of an intersection).",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Never make a U-turn:",
+    "options": [
+      {
+        "text": "in residential districts.",
+        "position": 1
+      },
+      {
+        "text": "at or on a railroad crossing.",
+        "position": 2
+      },
+      {
+        "text": "where there isn't a \"No U-turn\" sign posted.",
+        "position": 3
+      }
+    ],
+    "correct": "at or on a railroad crossing.",
+    "correctPosition": 2,
+    "explanation": "Never make a U-turn where a No U-turn sign is posted, at or on a railroad crossing, on a divided highway by crossing a dividing section, curb, strip of land, or two sets of double yellow lines, when you cannot see clearly for 200 feet in each direction, on a one-way street, in front of a fire station, never use a fire station driveway to turn around, in business districts (the part of a city or town where most offices and businesses are).",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "A solid yellow line on your side of the centerline means:",
+    "options": [
+      {
+        "text": "Reduce your speed.",
+        "position": 1
+      },
+      {
+        "text": "Traffic light ahead.",
+        "position": 2
+      },
+      {
+        "text": "Do not pass.",
+        "position": 3
+      }
+    ],
+    "correct": "Do not pass.",
+    "correctPosition": 3,
+    "explanation": "Solid yellow lines on two-lane roads indicate zones where passing is prohibited. If a solid yellow line appears next to a broken yellow line, drivers in the lane nearest to the solid yellow line may not pass. In some instances, both yellow lines will be solid, indicating that it is not safe to pass from either direction.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "What usually causes a locked wheel skid?",
+    "options": [
+      {
+        "text": "Braking too hard at a slow speed",
+        "position": 1
+      },
+      {
+        "text": "Braking lightly at a slow speed",
+        "position": 2
+      },
+      {
+        "text": "Braking too hard at a fast speed",
+        "position": 3
+      }
+    ],
+    "correct": "Braking too hard at a fast speed",
+    "correctPosition": 3,
+    "explanation": "A locked wheel skid is most commonly caused by a driver braking too hard while traveling at a high speed. Drivers should use their brakes smoothly and gradually.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "If you are driving and the rear end of your car starts skidding to the left, you should:",
+    "options": [
+      {
+        "text": "Steer to the right.",
+        "position": 1
+      },
+      {
+        "text": "Steer to the left.",
+        "position": 2
+      },
+      {
+        "text": "Tap your brakes lightly and shift into neutral.",
+        "position": 3
+      }
+    ],
+    "correct": "Steer to the left.",
+    "correctPosition": 2,
+    "explanation": "If your vehicle enters a skid, you should take your foot off of the brake and steer in the direction that you want to go. For example, if the rear of your vehicle is skidding to the left, you should steer to the left. This will help bring the front of the vehicle in line with the rear, thereby straightening out the vehicle's overall direction.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Broken yellow lines are used on streets and highways to:",
+    "options": [
+      {
+        "text": "Indicate no passing zones.",
+        "position": 1
+      },
+      {
+        "text": "Separate lanes of traffic moving in the same direction.",
+        "position": 2
+      },
+      {
+        "text": "Separate lanes of traffic moving in opposite directions. ",
+        "position": 3
+      }
+    ],
+    "correct": "Separate lanes of traffic moving in opposite directions. ",
+    "correctPosition": 3,
+    "explanation": "Yellow lines separate traffic moving in opposite directions. Dashed lines on the pavement indicate that passing is permitted when safe.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "At intersections with a \"Yield\" sign, you must:",
+    "options": [
+      {
+        "text": "Yield the right-of-way to cross traffic that is near enough to cause conflict.",
+        "position": 1
+      },
+      {
+        "text": "Yield the right-of-way only to vehicles on your right.",
+        "position": 2
+      },
+      {
+        "text": "Always slow down and proceed without stopping.",
+        "position": 3
+      }
+    ],
+    "correct": "Yield the right-of-way to cross traffic that is near enough to cause conflict.",
+    "correctPosition": 1,
+    "explanation": "At a yield sign, you must slow down or stop, if necessary, and give the right-of-way to crossing or merging vehicles. Yield the right-of-way to any cross traffic that is close enough to cause conflict.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Which way do you turn your front wheels to park downhill next to a curb?",
+    "options": [
+      {
+        "text": "Into the curb",
+        "position": 1
+      },
+      {
+        "text": "Away from the curb",
+        "position": 2
+      },
+      {
+        "text": "Parallel to the curb",
+        "position": 3
+      }
+    ],
+    "correct": "Into the curb",
+    "correctPosition": 1,
+    "explanation": "When parking downhill, turn your front wheels into the curb or toward the side of the road. Set the parking brake.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "As you approach the top of a hill, you should:",
+    "options": [
+      {
+        "text": "Speed up slightly.",
+        "position": 1
+      },
+      {
+        "text": "Prepare to stop, if needed.",
+        "position": 2
+      },
+      {
+        "text": "Maintain a steady speed.",
+        "position": 3
+      }
+    ],
+    "correct": "Prepare to stop, if needed.",
+    "correctPosition": 2,
+    "explanation": "You may not know what is on the other side of a hill or just around a curve, even if you have driven the road many times. If a vehicle is stalled just out of sight on the roadway, you must be able to stop. Whenever you come to a hill or curve, adjust your speed so you can stop if necessary.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "If you have trouble seeing other vehicles because of dust or smoke blowing across the roadway, you should drive more slowly and turn on your:",
+    "options": [
+      {
+        "text": "Emergency flashers.",
+        "position": 1
+      },
+      {
+        "text": "Parking lights.",
+        "position": 2
+      },
+      {
+        "text": "Headlights.",
+        "position": 3
+      }
+    ],
+    "correct": "Headlights.",
+    "correctPosition": 3,
+    "explanation": "You must turn on your headlights any time conditions prevent you from seeing other vehicles. Other drivers may have trouble seeing you, too.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Prior to entering a curve:",
+    "options": [
+      {
+        "text": "Activate your turn signal.",
+        "position": 1
+      },
+      {
+        "text": "Reduce your speed.",
+        "position": 2
+      },
+      {
+        "text": "Brake hard.",
+        "position": 3
+      }
+    ],
+    "correct": "Reduce your speed.",
+    "correctPosition": 2,
+    "explanation": "You may drive more slowly than the posted speed limit, based on road conditions, but it is illegal to drive any faster than the posted speed limit. Some conditions which require reduced speed for safety include approaching curves or hills where visibility is limited, driving on slippery roads, and driving on roads where animals and pedestrians are present.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "This sign tells a driver that:",
+    "options": [
+      {
+        "text": "A construction flagger is ahead.",
+        "position": 1
+      },
+      {
+        "text": "A police officer is ahead.",
+        "position": 2
+      },
+      {
+        "text": "A parking attendant is ahead.",
+        "position": 3
+      }
+    ],
+    "correct": "A construction flagger is ahead.",
+    "correctPosition": 1,
+    "explanation": "This sign warns that there is a flag person ahead. Always follow directions given by a flagger. Flaggers normally wear orange or yellow vests, yellow-green shirts, or bright jackets. They use paddles and red flags to direct traffic through the work zone and to let workers or construction vehicles cross the road.",
+    "image": "https://www.dmv-written-test.com/images-car/connecticut-flagger.png"
+  },
+  {
+    "question": "Which child would require a child passenger restraint system?",
+    "options": [
+      {
+        "text": "A 9-year-old who is 4 feet 10 inches tall",
+        "position": 1
+      },
+      {
+        "text": "A 10-year-old who is 5 feet 3 inches tall",
+        "position": 2
+      },
+      {
+        "text": "A 7-year-old who is 4 feet 8 inches tall",
+        "position": 3
+      }
+    ],
+    "correct": "A 7-year-old who is 4 feet 8 inches tall",
+    "correctPosition": 3,
+    "explanation": "Children who are eight years old or older, or who have reached at least 4 feet 9 inches in height, may use a properly secured safety belt meeting federal standards. Other children must be seated in a child passenger restraint system.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "If you parallel park facing downward on a hill:",
+    "options": [
+      {
+        "text": "Turn your wheels sharply toward the side of the road.",
+        "position": 1
+      },
+      {
+        "text": "Turn your wheels away from the side of the road.",
+        "position": 2
+      },
+      {
+        "text": "Keep your wheels straight.",
+        "position": 3
+      }
+    ],
+    "correct": "Turn your wheels sharply toward the side of the road.",
+    "correctPosition": 1,
+    "explanation": "When parking downhill, turn your front wheels toward the curb or edge of the road. When parking uphill on a road without a curb, turn your wheels toward the edge of the road. When parking uphill on a road with a curb, you must turn your front wheels away from the curb.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "To avoid hydroplaning while driving in rainy conditions, you should:",
+    "options": [
+      {
+        "text": "Drive at a speed appropriate for ideal conditions.",
+        "position": 1
+      },
+      {
+        "text": "Apply your brakes as soon as your car starts to skid.",
+        "position": 2
+      },
+      {
+        "text": "Slow down.",
+        "position": 3
+      }
+    ],
+    "correct": "Slow down.",
+    "correctPosition": 3,
+    "explanation": "When driving too quickly in wet conditions, your tires may lose all contact with the road surface. Loss of traction will cause the vehicle to ride on top of the water, which is called \"hydroplaning.\" The best way to prevent this from happening is to drive more slowly in rainy or wet conditions than you would when driving during ideal weather conditions.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "If you miss your exit on the freeway, you should not:",
+    "options": [
+      {
+        "text": "Continue on the freeway and find an alternate route to your destination.",
+        "position": 1
+      },
+      {
+        "text": "Proceed to the next exit, leave the freeway, and return to your proper exit. ",
+        "position": 2
+      },
+      {
+        "text": "Back up on the road or shoulder.",
+        "position": 3
+      }
+    ],
+    "correct": "Back up on the road or shoulder.",
+    "correctPosition": 3,
+    "explanation": "If you miss your turn or exit, do not back up in the travel lane or on the shoulder. Continue to drive to the next exit or crossroad. Drivers do not expect a vehicle to be backing toward them on the roadway and doing so will likely cause a collision.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "A driver should:",
+    "options": [
+      {
+        "text": "Stare directly in front of their car.",
+        "position": 1
+      },
+      {
+        "text": "Only focus on the middle of the road.",
+        "position": 2
+      },
+      {
+        "text": "Watch beside, ahead, and to the rear of their car.",
+        "position": 3
+      }
+    ],
+    "correct": "Watch beside, ahead, and to the rear of their car.",
+    "correctPosition": 3,
+    "explanation": "A driver should watch beside, ahead, and to the rear of their car. To be a good driver, you must know what is happening all around your vehicle. ",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "When you see this sign, you should:",
+    "options": [
+      {
+        "text": "Watch for traffic merging from the right.",
+        "position": 1
+      },
+      {
+        "text": "Merge right.",
+        "position": 2
+      },
+      {
+        "text": "Turn left.",
+        "position": 3
+      }
+    ],
+    "correct": "Watch for traffic merging from the right.",
+    "correctPosition": 1,
+    "explanation": "Warning signs alert drivers to upcoming hazards and are usually yellow with black markings. This sign warns drivers about potential traffic merging into their lane from the right.",
+    "image": "https://www.dmv-written-test.com/images-car/iowa-merging_traffic.png"
+  },
+  {
+    "question": "Double solid yellow line markings down the center of a road indicate that passing is:",
+    "options": [
+      {
+        "text": "Allowed from both directions.",
+        "position": 1
+      },
+      {
+        "text": "Allowed only from your direction of travel.",
+        "position": 2
+      },
+      {
+        "text": "Not allowed from either direction.",
+        "position": 3
+      }
+    ],
+    "correct": "Not allowed from either direction.",
+    "correctPosition": 3,
+    "explanation": "A double yellow centerline means that it is prohibited for traffic from either direction to cross the centerline to pass.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "Work zone barriers, drums, cones, and signs are used to:",
+    "options": [
+      {
+        "text": "Make drivers angry about slow traffic.",
+        "position": 1
+      },
+      {
+        "text": "Inconvenience drivers.",
+        "position": 2
+      },
+      {
+        "text": "Keep traffic out of hazardous work zones.",
+        "position": 3
+      }
+    ],
+    "correct": "Keep traffic out of hazardous work zones.",
+    "correctPosition": 3,
+    "explanation": "Work zones on highways have become increasingly dangerous places for both workers and drivers. When approaching a work zone, watch for materials such as cones, barrels, signs, large vehicles, and workers in brightly colored vests to warn you and direct you.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "If a tire suddenly blows out while you are driving, you should:",
+    "options": [
+      {
+        "text": "Grip the steering wheel firmly, slow down, and exit the traffic lane.",
+        "position": 1
+      },
+      {
+        "text": "Pump the brakes rapidly.",
+        "position": 2
+      },
+      {
+        "text": "Brake hard and steer toward the right edge of the roadway.",
+        "position": 3
+      }
+    ],
+    "correct": "Grip the steering wheel firmly, slow down, and exit the traffic lane.",
+    "correctPosition": 1,
+    "explanation": "If you experience a sudden tire blowout, do not panic. Grasp the steering wheel firmly and take your foot off the accelerator to allow the vehicle to roll to a stop. Lightly apply the breaks when it is safe to do so. Do not move to the shoulder of the road until the car has slowed considerably.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  },
+  {
+    "question": "If you park facing uphill on a street with a curb, set the parking brake and:",
+    "options": [
+      {
+        "text": "Turn the front wheels toward the curb.",
+        "position": 1
+      },
+      {
+        "text": "Turn the front wheels away from the curb.",
+        "position": 2
+      },
+      {
+        "text": "Leave the front wheels straight.",
+        "position": 3
+      }
+    ],
+    "correct": "Turn the front wheels away from the curb.",
+    "correctPosition": 2,
+    "explanation": "When parking uphill on a road that has a curb, your wheels should be turned away from the curb. When parking uphill on a street without a curb or when parking downhill, your wheels should be turned toward the curb or edge of the road.",
+    "image": "https://www.dmv-written-test.com/images/meta/cover-1024x512.png"
+  }
+]
