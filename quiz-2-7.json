@@ -461,7 +461,8 @@
     ],
     "correct": "Слияние транспорта впереди.",
     "correctPosition": 2,
-    "explanation": "Этот знак предупреждает о возможном слиянии транспорта."
+    "explanation": "Этот знак предупреждает о возможном слиянии транспорта.",
+    "image": "https://www.dmv-written-test.com/images-car/california-merging_traffic.png"
   },
   {
     "question": "Если вы устали за рулем, вы должны:",
